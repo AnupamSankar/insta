@@ -1,0 +1,53 @@
+.background {
+  background-image: url("user/BG.png");
+
+  position: relative;
+  top: 0px;
+  left: 50%;
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+  height: 1024px;
+  width: 1440px;
+  align-self: center;
+  background-size: cover;
+}
+* {
+  margin: 0;
+}
+djan .member {
+  position: absolute;
+  top: 380px;
+  left: 626px;
+  height: 24px;
+  width: 188px;
+  font-family: "Tahoma";
+  font-size: 21px;
+  color: rgba(255, 156, 65, 1);
+  text-align: center;
+  line-height: 24px;
+}
+
+.signin {
+  position: absolute;
+  top: 406px;
+  left: 648px;
+  height: 24px;
+  width: 144px;
+  font-family: "Tahoma";
+  font-size: 14px;
+  color: rgba(241, 97, 128, 1);
+  text-align: center;
+  line-height: 24px;
+}
+
+.line {
+  position: absolute;
+  top: 353px;
+  left: 385.5px;
+  height: 1.76px;
+  width: 673px;
+  background-color: rgba(102, 102, 102, 1);
+  -webkit-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+}

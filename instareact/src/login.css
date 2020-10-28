@@ -1,0 +1,12 @@
+.login {
+  position: absolute;
+  top: 176px;
+  left: 384px;
+  height: 627px;
+  width: 673px;
+  background-color: rgba(15, 15, 15, 1);
+  border: 2px solid rgba(191, 191, 191, 1);
+  border-radius: 6px;
+
+  opacity: 0.9;
+}

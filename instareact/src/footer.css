@@ -1,0 +1,38 @@
+.container {
+  position: absolute;
+  top: 740px;
+  left: 386.25px;
+  height: 64px;
+  width: 673px;
+  background-color: rgba(0, 0, 0, 1);
+  border-radius: 2px;
+}
+
+#connect {
+  position: absolute;
+  top: 759px;
+  left: 620px;
+  height: 24px;
+  width: 97px;
+  font-family: "Tahoma";
+  font-size: 16px;
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+  line-height: 24px;
+}
+
+#gplus {
+  position: absolute;
+  top: 752px;
+  left: 734px;
+  height: 37px;
+  width: 37px;
+}
+
+#fb {
+  position: absolute;
+  top: 752px;
+  left: 783px;
+  height: 37px;
+  width: 38px;
+}
